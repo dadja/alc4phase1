@@ -1,0 +1,4 @@
+#Sun Jul 14 17:52:28 GMT 2019
+base.0=/Users/dadja/code/android/ALC4/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
